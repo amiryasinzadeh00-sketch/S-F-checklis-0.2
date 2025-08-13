@@ -1,1 +1,0 @@
-Confluence v2 placeholder
